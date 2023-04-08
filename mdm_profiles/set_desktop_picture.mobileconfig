@@ -1,1 +1,37 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Desktop Picture</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.desktop.1C12FDCA-75B5-49AF-89AB-060B89BC5472</string>
+			<key>PayloadType</key>
+			<string>com.apple.desktop</string>
+			<key>PayloadUUID</key>
+			<string>1C12FDCA-75B5-49AF-89AB-060B89BC5472</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>override-picture-path</key>
+			<string>/path/to/desktop.png</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Submit your background image as a pull request to try out Fleet's GitOps driven device management. Once PR is merged, capture a screenshot from the live feed and post on Fleet's social media channels to earn Fleet swag!</string>
+	<key>PayloadDisplayName</key>
+	<string>Set Desktop Picture</string>
+	<key>PayloadIdentifier</key>
+	<string>fleet-ctf.75542450-6963-4DFF-9B9B-03B458C124A3</string>
+	<key>PayloadOrganization</key>
+	<string>Fleet-Capture-the-Flag</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>75542450-6963-4DFF-9B9B-03B458C124A3</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
