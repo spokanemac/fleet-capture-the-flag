@@ -1,6 +1,6 @@
 # Welcome to Fleet's _Capture the Flag_
 
-Fleet Device Management couldn’t be more excited to announce that, Fleet has enabled MDM features in the latest release of Fleet as a public beta broadly available to everyone. Fleet is the first GitOps-enabled MDM solution, and we are showing that off with a little game of _Capture the Flag._ 
+Fleet Device Management couldn’t be more excited to announce that MDM features have been enabled in the latest release. The public beta is broadly available to everyone and Fleet is the first GitOps-enabled MDM solution.  We are showing that off with a little game of _Capture the Flag._ 
 
 Check out the GitOps workflow by uploading your desktop background, updating the profile to use that image, and creating a pull request. Once approved, you will have 5 minutes to grab a screenshot from our live stream, post it on your favorite social media channel, and we will reward you with prizes!
 
